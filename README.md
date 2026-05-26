@@ -6,6 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayy-cse&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayy-cse&layout=compact&theme=tokyonight"/>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=njansanjay&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
